@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    
+}
+
+h1 {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-size: 500%;
+  padding: 50px 30px 50px 80px;
+  background-color: white;
+}
+
+h2 {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-size: 100%;
+  color: white;
+  letter-spacing: 3px;
+}
+
+p{
+  font-size: 25%;
+  text-align: center;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover{
+  color: purple;
+}
+
+a:link {
+color:#000000; 
+text-decoration:none;
+  padding: 0px 10px;
+  word-wrap: normal;
+  display: inline-block;
+}
